@@ -7,6 +7,6 @@
 
 <br>some demo images are given below<br/>
 
-<br>Main Screen<br> <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/main.jpeg" width="300" height="600" />
+Main Screen <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/main.jpeg" width="300" height="600" />
 
 
