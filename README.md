@@ -5,6 +5,4 @@
 <br>step2 -> install in your android Device <br/>
 <br>step3 -> Watch your favorite anime... :) <br/>
 
-![alt text](https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/account.jpeg|width=100)
-
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/account.jpeg" width="200" height="400" />
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/account.jpeg" width="700" height="700" />
