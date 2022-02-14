@@ -19,7 +19,7 @@
 <br><br/>
 <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/sign up.jpeg" width="300" height="600" />
 
-### SAccount
+### Account
 <br><br/>
 <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/account.jpeg" width="300" height="600" />
 
@@ -33,7 +33,7 @@
 
 ### Category
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/category.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/catogory.jpeg" width="300" height="600" />
 
 ### Episode Selector
 <br><br/>
