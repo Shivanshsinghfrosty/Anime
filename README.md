@@ -11,4 +11,8 @@
 <br><br/>
 <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/main.jpeg" width="300" height="600" />
 
+### Main Screen
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/signin.jpeg" width="300" height="600" />
+
 
