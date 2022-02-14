@@ -17,7 +17,7 @@
 
 ### Sign Up
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/sign in.up" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/sign up.jpeg" width="300" height="600" />
 
 ### SAccount
 <br><br/>
@@ -29,7 +29,7 @@
 
 ### Search
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/searchr.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/search.jpeg" width="300" height="600" />
 
 ### Category
 <br><br/>
@@ -41,4 +41,4 @@
 
 ### Player
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/player.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/player.jpeg" width="600" height="300" />
