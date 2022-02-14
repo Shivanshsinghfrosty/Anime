@@ -11,8 +11,34 @@
 <br><br/>
 <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/main.jpeg" width="300" height="600" />
 
-### Main Screen
+### Sign In
 <br><br/>
 <img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/sign in.jpeg" width="300" height="600" />
 
+### Sign Up
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/sign in.up" width="300" height="600" />
 
+### SAccount
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/account.jpeg" width="300" height="600" />
+
+### Drawer Navigation
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/drawer.jpeg" width="300" height="600" />
+
+### Search
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/searchr.jpeg" width="300" height="600" />
+
+### Category
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/category.jpeg" width="300" height="600" />
+
+### Episode Selector
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/episode selector.jpeg" width="300" height="600" />
+
+### Player
+<br><br/>
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/player.jpeg" width="300" height="600" />
