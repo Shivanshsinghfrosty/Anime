@@ -13,6 +13,6 @@
 
 ### Main Screen
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/signin.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/sign in.jpeg" width="300" height="600" />
 
 
